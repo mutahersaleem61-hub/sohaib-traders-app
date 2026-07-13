@@ -1,0 +1,31 @@
+{
+  "name": "Sohaib Traders — Stock & Invoice",
+  "short_name": "Sohaib Traders",
+  "description": "Stock, invoice, ledger and expense management for Sohaib Traders, Zafarwal",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#fbf9f3",
+  "theme_color": "#C8102E",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
